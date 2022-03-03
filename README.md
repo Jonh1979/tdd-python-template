@@ -11,6 +11,7 @@ Proyecto base para crear aplicaciones siguiendo la metodología TDD
    $ mkdir .venv ### Opcional: Crea el entorno virtual dentro del proyecto
    $ pipenv install
    ```
+   pipenv install --dev
    El comando `pipenv install` crea el entorno virtual e instala las dependencias definidas en el fichero `Pipfile`.
 1. Accede al entorno virtual:
    ```bash
