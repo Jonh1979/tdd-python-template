@@ -35,4 +35,4 @@ Proyecto base para crear aplicaciones siguiendo la metodología TDD
 
 
 
-![status:](https://github.com/Jonh1979/tdd-Python/docs/actions/workflows/main.yml/badge.svg)
+![status:](https://github.com/Jonh1979/tdd-python-template/docs/actions/workflows/main.yml/badge.svg)
